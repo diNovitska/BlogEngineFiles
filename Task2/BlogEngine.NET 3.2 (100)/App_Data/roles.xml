@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<roles>
+  <role>
+    <name>Administrators</name>
+    <users>
+      <user>Admin</user>
+    </users>
+  </role>
+  <role>
+    <name>Editors</name>
+    <users>
+      <user>guest</user>
+      <user>editor</user>
+    </users>
+  </role>
+  <role>
+    <name>Anonymous</name>
+    <users>
+      <user>guest5</user>
+      <user>guest11</user>
+      <user>guest4</user>
+      <user>guest2</user>
+      <user>guest3</user>
+      <user>guest6</user>
+      <user>guest7</user>
+      <user>guest8</user>
+      <user>guest9</user>
+      <user>guest10</user>
+    </users>
+  </role>
+</roles>
